@@ -1,1 +1,1 @@
-This is a deummy portfolio which leads to the existing portfolio website.
+This is a dummy portfolio which leads to the existing portfolio website.
